@@ -11,6 +11,6 @@ public class SumThreeNumbers {
         System.out.print("Enter third number - ");
         float c = sc.nextFloat();
         float sum = a + b + c;
-        System.out.println("The sum of all three number is " + sum);
+        System.out.println("The sum of all three number is " + sum+"%");
     }
 }
